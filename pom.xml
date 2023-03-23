@@ -5,7 +5,7 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>2.7.9</version>
+		<version>3.0.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>ScoringService</groupId>
@@ -14,8 +14,8 @@
 	<name>ScoringService</name>
 	<description>Scoring Service</description>
 	<properties>
-		<java.version>11</java.version>
-		<spring-cloud.version>2021.0.6</spring-cloud.version>
+		<java.version>17</java.version>
+		<spring-cloud.version>2022.0.1</spring-cloud.version>
 	</properties>
 	<dependencies>
 		<dependency>
